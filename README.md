@@ -26,3 +26,21 @@ O projeto visa facilitar e simplificar os processos que ocorrem na Associação 
 - ``ReactJS``
 - ``NodeJS``
 - ``Figma``
+
+
+## :octocat: Acesso ao projeto 
+
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Gabriel-Vasconcelos)
+
+
+## :trollface: Autores
+
+
+|            NOME               |           FUNÇÃO           |  MATRÍCULA  |
+|  ---------------------------- |  --------------------------|  ---------  |
+|  YANN PASSARINI               |           DESIGN           |   510989    |
+|  JOANA RAABE SALES COSTA      |           DESIGN           |   511244    |
+|  LUIZA FREIRE MONIZ DE ARAGAO |           DESIGN           |   507811    |
+|  GABRIEL VIEIRA MARQUES       |         CODIFICAÇÃO        |   509640    |
+|  GABRIEL VASCONCELOS DA SILVA |         CODIFICAÇÃO        |   511451    |
+
