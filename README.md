@@ -7,9 +7,22 @@ Aplicação Web para a Associação Beneficente Estrela da Manhã (ABEM) feito p
 O projeto visa facilitar e simplificar os processos que ocorrem na Associação por meio de uma Aplicação Web, tendo como foco tanto os usuários beneficiados, quanto os atendentes da ABEM. Tendo em vista dois principais processos, o cadastro de usuários beneficiados, informações pessoais que a Associação precisa ter, e as solicitações de exames sejam na área de saúde, jurídifca ou qualquer outra.
 
 
-## :hammer: Funcionalidades do projeto
+## :hammer: Requisitos funcionais do sistema
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Requisito 1 - RF0001 `: Cadastrar Conta :black_square_button:
+- `Requisito 2 - RF0002 `: Autenticar Conta :black_square_button:
+- `Requisito 3 - RF0003 `: Atualizar Dados :black_square_button:
+- `Requisito 4 - RF0004 `: Central de Dúvidas (FAQ) :black_square_button:
+- `Requisito 5 - RF0005 `: Fazer Login :black_square_button:
+- `Requisito 6 - RF0006 `: Solicitar Serviços :black_square_button:
+- `Requisito 7 - RF0007 `: Acompanhar Solicitação :black_square_button:
+- `Requisito 8 - RF0008 `: Página do Usuário Primário (Atendente) :black_square_button:
+- `Requisito 9 - RF0009 `: Página onde Atendente atualiza Solicitações :black_square_button:
+
+
+## :heavy_check_mark: Tecnologias utilizadas
+
+- ``HTML, JavaScript e CSS``
+- ``ReactJS``
+- ``NodeJS``
+- ``Figma``
