@@ -30,7 +30,7 @@ O projeto visa facilitar e simplificar os processos que ocorrem na Associação 
 
 ## :octocat: Acesso ao projeto 
 
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Gabriel-Vasconcelos)
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Gabriel-Vasconcelos/app-abem)
 
 
 ## :trollface: Autores
