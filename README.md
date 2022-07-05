@@ -24,7 +24,8 @@ O projeto visa facilitar e simplificar os processos que ocorrem na Associação 
 
 - ``HTML, JavaScript e CSS``
 - ``ReactJS``
-- ``NodeJS``
+- ``NodeJS (16.15.1)``
+- ``NPM (8.11)``
 - ``Figma``
 
 
