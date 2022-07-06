@@ -4,7 +4,7 @@
 
 Aplicação Web para a Associação Beneficente Estrela da Manhã (ABEM) feito por alunos da cadeira de Projeto Intregrado I do Curso de Sistemas e Mídias Digitais (SMD) da Universidade Federal do Ceará (UFC).
 
-O projeto visa facilitar e simplificar os processos que ocorrem na Associação por meio de uma Aplicação Web, tendo como foco tanto os usuários beneficiados, quanto os atendentes da ABEM. Tendo em vista dois principais processos, o cadastro de usuários beneficiados, informações pessoais que a Associação precisa ter, e as solicitações de exames sejam na área de saúde, jurídifca ou qualquer outra.
+O projeto visa facilitar e simplificar os processos que ocorrem na Associação por meio de uma Aplicação Web, tendo como foco tanto os usuários beneficiados, quanto os atendentes da ABEM. Tendo em vista dois principais processos, o cadastro de usuários beneficiados, informações pessoais que a Associação precisa ter, e as solicitações de agendamentos sejam na área de saúde, jurídifca ou qualquer outra.
 
 
 ## :hammer: Requisitos funcionais do sistema
@@ -23,12 +23,12 @@ O projeto visa facilitar e simplificar os processos que ocorrem na Associação 
 ## :heavy_check_mark: Tecnologias utilizadas
 
 - ``HTML, JavaScript e CSS``
-- ``ReactJS``
+- ``ReactJS (v18.0)``
 - ``TailwindCSS (v3.1.4)``
 - ``PostCSS (v8.4.14)``
 - ``NodeJS (v16.15.1)``
 - ``NPM (v8.11)``
-- ``Vite (v2.9.13)``
+- ``Vite (v2.9.9)``
 - ``Figma``
 
 
