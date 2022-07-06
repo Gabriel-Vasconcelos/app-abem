@@ -24,6 +24,8 @@ O projeto visa facilitar e simplificar os processos que ocorrem na Associação 
 
 - ``HTML, JavaScript e CSS``
 - ``ReactJS``
+- ``TailwindCSS (v3.1.4)``
+- ``PostCSS (v3.1.4)``
 - ``NodeJS (v16.15.1)``
 - ``NPM (v8.11)``
 - ``Vite (v2.9.13)``
