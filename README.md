@@ -60,7 +60,7 @@ Você pode acessar o vídeo final de entrega do projeto clicando [aqui](https://
 
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Gabriel-Vasconcelos/app-abem).
 
-Acesso ao código do Front-End e ao cBack-end são encontrados nesse mesmo link nas suas respectivas branches
+Acesso ao código do Front-End e ao código do Back-end são encontrados nesse mesmo link nas suas respectivas branches
 
 ## :trollface: Autores
 
