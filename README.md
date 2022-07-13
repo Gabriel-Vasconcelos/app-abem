@@ -1,6 +1,6 @@
 # ![logo da abem](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/logo-abem.png)
 ![badge da licença](https://img.shields.io/github/license/Gabriel-Vasconcelos/app-abem)
-![badge de status](https://img.shields.io/badge/status-em%20desenvolvimento-green)
+![badge de status](https://img.shields.io/badge/status-entregue-green)
 
 Aplicação Web para a Associação Beneficente Estrela da Manhã (ABEM) feito por alunos da cadeira de Projeto Intregrado I do Curso de Sistemas e Mídias Digitais (SMD) da Universidade Federal do Ceará (UFC).
 
