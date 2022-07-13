@@ -19,23 +19,44 @@ O projeto visa facilitar e simplificar os processos que ocorrem na Associação 
 - `Requisito 8 - RF0008 `: Página do Usuário Primário (Atendente) :black_square_button:
 - `Requisito 9 - RF0009 `: Página onde Atendente atualiza Solicitações :black_square_button:
 
+## :camera: Imagens da Aplicação
+
+![Print da tela inicial de login ](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-1.png)
+
+![Print da tela de cadastro ](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-2.png)
+
+![Print da tela de duvidas frequentes ](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-3.png)
+
+![Print da tela de doe ](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-4.png)
+
+![Print da tela inicial do usuario beneficiado](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-5.png)
+
+![Print da tela modal de solicitacao do usuario beneficiado](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-6.png)
+
+![Print da tela de editar cadastro do usuario beneficiado](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-7.png)
+
+![Print da tela incial do usuario atendente](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-8.png)
+
 
 ## :heavy_check_mark: Tecnologias utilizadas
 
 - ``HTML, JavaScript e CSS``
 - ``ReactJS (v18.0)``
 - ``TailwindCSS (v3.1.4)``
-- ``PostCSS (v8.4.14)``
 - ``NodeJS (v16.15.1)``
-- ``NPM (v8.11)``
 - ``Vite (v2.9.9)``
+- ``VLibras``
+- ``Mongo``
+- ``Postman``
 - ``Figma``
+- ``(Outras e em mais detalhes em seus respecitvos package.json)``
 
 
 ## :octocat: Acesso ao projeto 
 
-Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Gabriel-Vasconcelos/app-abem)
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/Gabriel-Vasconcelos/app-abem).
 
+Acesso ao código do Front-End e ao cBack-end são encontrados nesse mesmo link nas suas respectivas branches
 
 ## :trollface: Autores
 
