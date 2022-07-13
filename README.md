@@ -37,6 +37,9 @@ O projeto visa facilitar e simplificar os processos que ocorrem na Associação 
 
 ![Print da tela incial do usuario atendente](https://github.com/Gabriel-Vasconcelos/app-abem/blob/master/imgs-readme/print-8.png)
 
+## :movie_camera: Vídeo de entrega do projeto 
+Você pode acessar o vídeo final de entrega do projeto clicando [aqui](https://youtu.be/a9mAKSfcaQw).
+
 
 ## :heavy_check_mark: Tecnologias utilizadas
 
@@ -61,11 +64,11 @@ Acesso ao código do Front-End e ao cBack-end são encontrados nesse mesmo link 
 ## :trollface: Autores
 
 
-|            NOME               |           FUNÇÃO           |  MATRÍCULA  |
-|  ---------------------------- |  --------------------------|  ---------  |
-|  YANN PASSARINI               |           DESIGN           |   510989    |
-|  JOANA RAABE SALES COSTA      |           DESIGN           |   511244    |
-|  LUIZA FREIRE MONIZ DE ARAGAO |           DESIGN           |   507811    |
-|  GABRIEL VIEIRA MARQUES       |         CODIFICAÇÃO        |   509640    |
-|  GABRIEL VASCONCELOS DA SILVA |         CODIFICAÇÃO        |   511451    |
+|            NOME               |           FUNÇÃO           |
+|  ---------------------------- |  --------------------------|
+|  YANN PASSARINI               | Designer, conteudista e revisor.      |
+|  JOANA RAABE SALES COSTA      | Lider/atendimento.                    |
+|  LUIZA FREIRE MONIZ DE ARAGAO | Designer e arquiteta da informação.   |
+|  GABRIEL VIEIRA MARQUES       | Programador e coordenador de testes.  |
+|  GABRIEL VASCONCELOS DA SILVA | Programador.                          |
 
